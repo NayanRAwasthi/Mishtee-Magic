@@ -1,0 +1,4 @@
+Group,Output
+Slogans,"* Purity in Craft, Magic in Every Bite.* Ancient Roots. Modern Rituals.* Indulgence, Reimagined for Wellness."
+'Our Story' Blurb,"Born from a desire to honor India’s sweet heritage without compromising on health, MishTee-Magic blends farm-fresh A2 milk with organic, low-glycemic ingredients. We believe that true magic lies in the balance of artisanal tradition and mindful nutrition, delivered straight from our kitchen to yours."
+Collection Names,* The Gilded Earth Series (Signature Terracotta-inspired classics)* The Vedic Wellness Range (A2 Milk and Ayurvedic botanical infusions)* The Flora & Saffron Suites (Floral-infused and spice-forward delicacies)* The Conscious Crumb Collection (Low-sugar and gluten-aware innovations)
